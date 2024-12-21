@@ -1,0 +1,29 @@
+N: No Sign-off   M: Author mismatch
+N 2c79e82 krystal <krystal@swirldslabs.com> New Crowdin updates (#745)
+N 03a8784 krystal <krystal@swirldslabs.com> GitBook: No commit message
+N 0ae064e krystal <krystal@swirldslabs.com> GitBook: No commit message
+N ec40fb4 krystal <krystal@swirldslabs.com> GitBook: No commit message
+N 17ce9a5 krystal <krystal@swirldslabs.com> GitBook: No commit message
+N 7d74ded krystal <spamjamin@pm.me> Update Crowdin configuration file
+N 12bcb84 krystal <spamjamin@pm.me> Update Crowdin configuration file
+N eb6c446 krystal <spamjamin@pm.me> Update Crowdin configuration file
+N 43ef6ff krystal <krystal@swirldslabs.com> New Crowdin updates (#720)
+N 9389131 krystal <spamjamin@pm.me> Update Crowdin configuration file
+N f313d0b krystal <krystal@swirldslabs.com> New Crowdin updates (#719)
+N 207c8b4 krystal <spamjamin@pm.me> Update Crowdin configuration file
+N 1cc72ff krystal <spamjamin@pm.me> Update Crowdin configuration file
+N 031a94e krystal <spamjamin@pm.me> Update Crowdin configuration file
+N df65d83 krystal <krystal@swirldslabs.com> GITBOOK-5: No subject
+N 5efb37b krystal <krystal@swirldslabs.com> GITBOOK-7: No subject
+N a1ccc8b krystal <spamjamin@pm.me> Update Crowdin configuration file
+N b9390fe krystal <krystal@swirldslabs.com> GITBOOK-5: No subject
+N 1ed8511 krystal <krystal@swirldslabs.com> GITBOOK-4: No subject
+N 532312c krystal <krystal@swirldslabs.com> GITBOOK-6: No subject
+N e40c7b7 krystal <krystal@swirldslabs.com> GITBOOK-4: No subject
+N 74b80c3 krystal <krystal@swirldslabs.com> New Crowdin updates (#717)
+N b2225fa krystal <spamjamin@pm.me> Update Crowdin configuration file
+N f0e43d0 krystal <spamjamin@pm.me> Update Crowdin configuration file
+N 0770d84 krystal <spamjamin@pm.me> Update Crowdin configuration file
+N 91efeee krystal <krystal@swirldslabs.com> New Crowdin updates (#716)
+N 16822f1 krystal <spamjamin@pm.me> Update Crowdin configuration file
+N b8dc23b krystal <spamjamin@pm.me> Update Crowdin configuration file

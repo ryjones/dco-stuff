@@ -1,0 +1,13 @@
+N: No Sign-off   M: Author mismatch
+N ab51283 krystal <spamjamin@pm.me> Update Crowdin configuration file
+N c82c2cd krystal <krystal@swirldslabs.com> GitBook: No commit message
+N bc21a78 krystal <krystal@swirldslabs.com> GITBOOK-4: No subject
+N b84bbcb krystal <krystal@swirldslabs.com> GitBook: No commit message
+N f7e345d krystal <krystal@swirldslabs.com> GitBook: No commit message
+N 64240ea krystal <krystal@swirldslabs.com> GITBOOK-4: No subject
+N c82ec69 krystal <krystal@swirldslabs.com> GitBook: No commit message
+N e54aaa7 krystal <spamjamin@pm.me> Update Crowdin configuration file
+N fb35229 krystal <krystal@swirldslabs.com> GITBOOK-4: No subject
+N 0815c7f krystal <krystal@swirldslabs.com> GITBOOK-4: No subject
+N 42ffa60 krystal <krystal@swirldslabs.com> GitBook: No commit message
+N 845c171 krystal <krystal@swirldslabs.com> GitBook: No commit message

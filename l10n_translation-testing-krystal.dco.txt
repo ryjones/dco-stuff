@@ -1,0 +1,27 @@
+N: No Sign-off   M: Author mismatch
+N aaf91ad krystal <spamjamin@pm.me> New translations readme.md (Chinese Simplified)
+N dfe9904 krystal <spamjamin@pm.me> New translations readme.md (Spanish)
+N 9dfcec9 krystal <spamjamin@pm.me> New translations readme.md (French)
+N cf42395 krystal <spamjamin@pm.me> New translations transactions-and-queries.md (Chinese Simplified)
+N 8df8046 krystal <spamjamin@pm.me> New translations transactions-and-queries.md (Spanish)
+N 3799e1e krystal <spamjamin@pm.me> New translations transactions-and-queries.md (French)
+N bf2f984 krystal <spamjamin@pm.me> New translations state-and-history.md (Chinese Simplified)
+N 4b26d82 krystal <spamjamin@pm.me> New translations state-and-history.md (Spanish)
+N 2ae2151 krystal <spamjamin@pm.me> New translations state-and-history.md (French)
+N ea61aaf krystal <spamjamin@pm.me> New translations scheduled-transaction.md (Chinese Simplified)
+N c4b1de4 krystal <spamjamin@pm.me> New translations scheduled-transaction.md (Spanish)
+N d05fb59 krystal <spamjamin@pm.me> New translations scheduled-transaction.md (French)
+N 0173f2a krystal <spamjamin@pm.me> New translations schedule-transaction.md (Chinese Simplified)
+N c2809f7 krystal <spamjamin@pm.me> New translations schedule-transaction.md (Spanish)
+N 0eedfff krystal <spamjamin@pm.me> New translations schedule-transaction.md (French)
+N 87fbf04 krystal <spamjamin@pm.me> New translations keys-and-signatures.md (Chinese Simplified)
+N 4be258f krystal <spamjamin@pm.me> New translations keys-and-signatures.md (Spanish)
+N 23a55b2 krystal <spamjamin@pm.me> New translations keys-and-signatures.md (French)
+N 650ef05 krystal <spamjamin@pm.me> New translations readme.md (Chinese Simplified)
+N 2d03874 krystal <spamjamin@pm.me> New translations readme.md (Spanish)
+N e9454fe krystal <spamjamin@pm.me> New translations readme.md (French)
+N d4e8721 krystal <spamjamin@pm.me> Update Crowdin configuration file
+N 76c89c1 krystal <krystal@swirldslabs.com> New Crowdin updates (#713)
+N b8a3244 krystal <spamjamin@pm.me> Update Crowdin configuration file
+N 17e60b2 krystal <krystal@swirldslabs.com> GitBook: No commit message
+N 4d348eb krystal <spamjamin@pm.me> Update Crowdin configuration file
